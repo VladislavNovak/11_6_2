@@ -42,6 +42,7 @@
 # *.ipr
 
 # CMake
+.idea/
 cmake-build-*/
 
 # Mongo Explorer plugin
